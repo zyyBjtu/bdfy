@@ -1,0 +1,20 @@
+{
+  "普通-上午": {
+    "hospitalUserID": "o39LEjgxs5TvASVBcpyCU83dSbj8XS23315001180",
+    "resourceID": "$LC$B2b/9qWhTfVXqQ/RGo3t56HdVqEzy5WF1UyfoawRKGzt02wS/i6EX8GhR2mY8VZ4zyoiE7VNZ1PAjNtGeHHcFX8djL7IXnpmojiPTfDKvjo=$LC$",
+    "registDate": "2024-07-29 上午 ：产科门诊(大兴)",
+    "url": "https://fwcbj.linkingcloud.cn/app/unattended/index.html#/outpatientService/guahao/doctor?dataSource=&docCode=0003_28_973_10505&hospitalID=0003",
+    "docCode": "0003_28_973_10505",
+    "docName": "大兴院区-普通门诊1",
+    "docDuty": "普通门诊",
+    "deptCode": "0003_28_973",
+    "deptName": "产科门诊(大兴)",
+    "docPhotoPath": "",
+    "extInfo": "{\"continueSubmit\":true,\"payPwd\":\"\"}",
+    "feeType": "0",
+    "latLongitude": "",
+    "itemCode": "",
+    "isMedicalInsurance": "",
+    "hospitalName": "北京大学第一医院(大兴院区)"
+}
+}
